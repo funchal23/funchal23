@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Java na empresa TOTVS.
 - 🌱 Estou estudando computação distribuida.
-- 👯 Quero colaborar com os temas de Microsserviços e Devops.
+- 👯 Quero colaborar com os temas de Microsserviços e DevOps.
 - ⚡ Além da técnologia, gosto de praticar basquete e jogar FIFA.
 
 <div>
