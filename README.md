@@ -1,9 +1,8 @@
-### Opa, bom te ver por aqui! Meu nome é Lucas Funchal da Silva 👋
+### Opa, bom te ver por aqui! Seja bem vindo 👋
 
 - 🔭 Atualmente trabalho com Java na empresa TOTVS.
 - 🌱 Estou estudando computação distribuida.
 - 👯 Quero colaborar com os temas de Microsserviços e Devops.
-- 📫 Você pode se comunicar comigo através do email lucasfunchal7@gmail.com ou pelo numero (18)996956058.
 - ⚡ Além da técnologia, gosto de praticar basquete e jogar FIFA.
 
 <div>
