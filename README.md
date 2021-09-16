@@ -1,16 +1,27 @@
-### Hi there 👋
+### Opa, bom te ver por aqui! Meu nome é Lucas Funchal da Silva 👋
 
-<!--
-**funchal23/funchal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com Java na empresa TOTVS.
+- 🌱 Estou estudando computação distribuida.
+- 👯 Quero colaborar com os temas de Microsserviços e Devops.
+- 📫 Você pode se comunicar comigo através do email lucasfunchal7@gmail.com ou pelo numero (18)996956058.
+- ⚡ Além da técnologia, gosto de praticar basquete e jogar FIFA.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/funchal23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=funchal23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funchal23&layout=compact&langs_count=7&theme=dark"/> -->
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.linkedin.com/in/lucas-funchal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasfunchal7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
