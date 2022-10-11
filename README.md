@@ -1,6 +1,6 @@
 ### Opa, bom te ver por aqui! Seja bem vindo 👋
 
-- 🔭 Atualmente trabalho com Java na empresa TOTVS.
+- 🔭 Atualmente trabalho com Java na empresa CI&T.
 - 🌱 Estou estudando computação distribuida.
 - 👯 Quero colaborar com os temas de Microsserviços e DevOps.
 - ⚡ Além da técnologia, gosto de praticar basquete e jogar FIFA.
